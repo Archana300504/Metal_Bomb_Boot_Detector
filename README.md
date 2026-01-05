@@ -50,14 +50,6 @@ Metal Sensor → Arduino → Vibration Motor + Electromagnet
 3. Battery-powered operation
 4. IoT-based monitoring
 
-# Repository Structure
-- `metal_bom` – Arduino source code
-- `` – Circuit diagram
-- `results/` – Output images
-- `README.md` – Project documentation
-
----
-
-## 👤 Author
+# Author
 Archana Devi P M  
 Embedded Systems | IoT | Python | ROS | C/C++ | Linux
